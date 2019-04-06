@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Permissions;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -9,16 +10,11 @@ namespace projeOtel1
     class Rezervasyon
     {
 
-        public void odaSorgusu()
-        {
-
-        }
-
         //otel class'ına gönderir
-        public void rezervasyonIstegi(int odaSecimi)
+        public void rezervasyonIstegi(int odaSecimi,string guestName)
         {
             Otel otel = new Otel();
-            otel.rezervasyonGonder(odaSecimi);
+            otel.rezervasyonGonder(odaSecimi, guestName);
         }
 
         public void rezervasyonIptali(int odaSecimi)
@@ -29,7 +25,8 @@ namespace projeOtel1
 
         public void kacKisiVar()
         {
-
+            Otel otel=new Otel();
+            otel.KisiSayisiOgren();
         }
 
     }

@@ -5,3 +5,10 @@ C:\Users\METEHAN\source\repos\projeOtel1\projeOtel1\obj\Debug\projeOtel1.csprojA
 C:\Users\METEHAN\source\repos\projeOtel1\projeOtel1\obj\Debug\projeOtel1.csproj.CoreCompileInputs.cache
 C:\Users\METEHAN\source\repos\projeOtel1\projeOtel1\obj\Debug\projeOtel1.exe
 C:\Users\METEHAN\source\repos\projeOtel1\projeOtel1\obj\Debug\projeOtel1.pdb
+C:\Users\cosku\OneDrive\Belgeler\GitHub\proje-1-ghettoboys\projeOtel1\projeOtel1\bin\Debug\projeOtel1.exe.config
+C:\Users\cosku\OneDrive\Belgeler\GitHub\proje-1-ghettoboys\projeOtel1\projeOtel1\bin\Debug\projeOtel1.exe
+C:\Users\cosku\OneDrive\Belgeler\GitHub\proje-1-ghettoboys\projeOtel1\projeOtel1\bin\Debug\projeOtel1.pdb
+C:\Users\cosku\OneDrive\Belgeler\GitHub\proje-1-ghettoboys\projeOtel1\projeOtel1\obj\Debug\projeOtel1.csprojAssemblyReference.cache
+C:\Users\cosku\OneDrive\Belgeler\GitHub\proje-1-ghettoboys\projeOtel1\projeOtel1\obj\Debug\projeOtel1.csproj.CoreCompileInputs.cache
+C:\Users\cosku\OneDrive\Belgeler\GitHub\proje-1-ghettoboys\projeOtel1\projeOtel1\obj\Debug\projeOtel1.exe
+C:\Users\cosku\OneDrive\Belgeler\GitHub\proje-1-ghettoboys\projeOtel1\projeOtel1\obj\Debug\projeOtel1.pdb
